@@ -24,12 +24,10 @@ In the spirit of SUTD's collaborative learning, the faculty has banned uploading
 
 This repository is aimed to help you **learn**, not copy answers. If your year's Problem Set questions happen to be the same as past years, you would be doing **a great disservice** to yourself and the SUTD community by copying and submitting solutions from this repository. **The faculty runs plagiarism checkers and they will pick up your copy and penalise you for it**.
 
-Also, please don't go waving this repository around the faculty's faces. They are humans and don't like stuff being waved in front of their face like you and me.
-
 ### If you are a faculty
 
 If your future problem sets are still going to be copy-pasta'd like what you did circa 2014 till 2019 and find issue with students copying solutions from here, then you gotta start making fresh problem sets.
 
-If you take issue with students learning from past year exam solutions "because it makes studying too easy", then you need to rethink your idea of what SUTD's unique learning pedagogy really is.
+If you take issue with students learning from past year exam solutions "because it makes studying too easy", then you need to rethink your idea of what SUTD's unique learning pedagogy really is. (<- perhaps the faculty no longer holds onto this view. I hope.)
 
-These solutions and tutorials **are my work protected under the MIT License**. You cannot take down this repository. Deal with it.
+These solutions and tutorials **are my work protected under the MIT License**. If you wish to incorporate these solutions into your curriculum, please contact me first before you use them. I'll be happy to help.
